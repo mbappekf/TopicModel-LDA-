@@ -56,6 +56,8 @@
 ## Topic Model の適用と文章データの分類  
 文章データにトピックモデルを適用．トピックモデルの中でもLDA(Latent Dirichlet Allocation)を用いた．  
 先ほど決定したTopic数で分類し，WordCloudを用いて結果を可視化．(下記図)  
+1つのトピック内で，単語の頻出度合いが文字の大きさに比例して表示される．  
+例えば，
 ![wordcloud](https://user-images.githubusercontent.com/77096897/151784646-069301f7-95aa-40a2-8f3d-d649e200281e.jpg)　　
 
 
